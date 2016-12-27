@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyFitnessBud</string>
+    <string name="sel_goal">Select Goal</string>
+    <string-array name="goals">
+        <item>Loose Weight</item>
+        <item>Maintain Weight</item>
+        <item>Gain Weight</item>
+    </string-array>
+
+    <string-array name="exercise">
+        <item>Light</item>
+        <item>Moderate</item>
+        <item>Intense</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
